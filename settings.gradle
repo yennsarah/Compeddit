@@ -1,0 +1,3 @@
+rootProject.name = "Compeddit"
+include ':app'
+include ':data'
